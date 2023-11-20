@@ -7,7 +7,7 @@ This repository is a space for my frontend development journey, showcasing proje
 ## Goals
 
 - Explore and improve my frontend development skills.
-- Tackle challenges from Frontend Mentor.
+- Tackle challenges from [Frontend Mentor](https://www.frontendmentor.io/).
 - Create a portfolio of engaging web projects.
 
 ## Future Plans
