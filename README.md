@@ -21,6 +21,4 @@ This repository is a space for my frontend development journey, showcasing proje
 - CSS
 - JavaScript
 
-Feel free to check back for updates as my frontend journey unfolds!
-
-Happy coding! 🌐✨
+Feel free to check back for updates as my frontend journey unfolds 🌐✨
